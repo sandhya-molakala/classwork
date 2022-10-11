@@ -1,0 +1,20 @@
+caption{
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+table{
+    height: 100px;
+    width: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid 3px;
+    border-collapse: collapse;
+}
+th{
+    border:solid 2px #FF0000;
+}
+td{
+    border:solid 2px #1b660c;
+    text-align: center;
+
+}
